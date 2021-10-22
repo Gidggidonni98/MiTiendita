@@ -1,0 +1,4 @@
+findAllProducts:
+   path: /
+   controller: App\Controller\ProductsController::findAllProducts
+
